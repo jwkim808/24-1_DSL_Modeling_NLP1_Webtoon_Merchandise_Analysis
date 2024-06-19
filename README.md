@@ -1,4 +1,4 @@
-## 🍔 24-1_DSL_Modeling_NLP1_네이버 리뷰 감성분석 및 요약을 통한 웹툰굿즈 분석 및 신상품 제작
+## 24-1_DSL_Modeling_NLP1_네이버 리뷰 감성분석 및 요약을 통한 웹툰굿즈 분석 및 신상품 제작
 ##### NLP 1조 - 11기: 김지원 김여원 박종락 양주원 한은결
 ## 💡 주제
 * 모델링을 통해 웹툰굿즈에 대한 리뷰들을 분석하고, 굿즈 제작을 해보았습니다.
@@ -44,6 +44,7 @@ kobart보다 keybert가 반복적인 내용이 많은 리뷰 특성상, 더욱 �
 
 
 ### 6. Conclusion
+![image](https://github.com/jwkim808/24-1_DSL_Modeling_NLP1_Webtoon_Merchandise_Analysis/assets/155510322/7a16849a-9696-4ce3-9916-4be5916acafb)
 
 
 
